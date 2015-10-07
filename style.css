@@ -1,0 +1,51 @@
+article, aside, figure, figcaption, footer, header, nav, section {
+    display: block;
+}
+
+body {
+	
+    background-color: floralwhite;
+}
+
+article {
+    padding-bottom: 30px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    color: rebeccapurple;
+    font-family: Papyrus, fantasy;
+    font-size: 4em;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    font-size: 1.3em;   
+}
+
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#controls {
+    width: 455px;
+    margin: 0 auto 30px;
+}
+
+button {
+    margin: 5px;
+    width: 100px;
+}

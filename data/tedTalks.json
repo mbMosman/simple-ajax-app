@@ -1,0 +1,45 @@
+{
+    "tedTalks" : [
+            {
+                "speaker" : "Josh Kaufman",
+                "title" : "The first 20 hours - how to learn anything",
+                "youTubeId" : "5MgBikgcWnY",
+                "description" : "An awesome talk on how to learn something new that ends with a fantastic ukulele performance of \"every pop song of the last 5 decades\"."
+            },
+            
+            {
+                "speaker" : "Alison Ledgerwood",
+                "title" : "Getting stuck in the negatives",
+                "youTubeId" : "7XFLTDQ4JMk",
+                "description" : "Is it harder to go from the negative to the positive, or is that just our imaginatin?  A psychologist talks about how to get unstuck from the pesimistic view."
+            },
+            
+            {
+                "speaker" : "Olympia LePoint",
+                "title" : "Reprogramming your brain to overcome fear",
+                "youTubeId" : "1PV7Hy_8fhA",
+                "description" : "A motivational success story from someone who overcame multiple obstacles and fear to become a award winning rocket scientist."
+            },
+            
+            {
+                "speaker" : "Dr. Ivan Joseph",
+                "title" : "The skill of self confidence",
+                "youTubeId" : "w-HYZv6HzAs",
+                "description" : "Why self-confidence is important and how to gain it through repetition, persistence and learning to write your own story."
+            },
+            
+            {
+                "speaker" : "Carrie Green",
+                "title" : "Programming your mind for success",
+                "youTubeId" : "MmfikLimeQ8",
+                "description" : "An engaging talk on overcoming fear, obstacles, and lack of motivation to become successful."
+            },
+            
+            {
+                "speaker" : "Kevin Slavin",
+                "title" : "How Algorithms Shape our World",
+                "youTubeId" : "ENWVRcMGDoU",
+                "description" : "An interesting discussion of the importance of algorithms in modern life, particularly in the stock market."
+            }
+    ]
+}

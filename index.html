@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Inspiration</title>
+
+    <!-- Bootstrap CSS File -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- My CSS File -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <main class="container-fluid">
+        <header>
+            <h1>Inspirational TED Talks</h1>
+        </header>
+
+        <div id="controls" >
+                <button id="ajax" class="btn btn-default">Ajax Load</button>
+                <button id="load" class="btn btn-default">Local Load</button>
+                <button id="save" class="btn btn-default">Local Save</button>
+                <button id="clear" class="btn btn-default">Local Clear</button>
+        </div>
+        
+        <div id="tedTalks" aria-atomic="true" aria-live="polite" aria-relevant="additions removals">
+
+
+        </div>
+
+    </main>
+
+    <!-- My actual page JS -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>
